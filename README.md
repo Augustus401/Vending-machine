@@ -1,2 +1,3 @@
 # Vending-machine
-just a Vending machine for a project
+this vending machine is for my assessment on introduction to programming
+in the first semester
