@@ -28,7 +28,7 @@ class VENDINGMACHINE:
 
     def display_products(self):
         print("\n                                   welcome to                                           ")
-        print("                       not so small Vending Machine Menu                                ")
+        print("                               Vending Machine Menu                                    ")
         print("---------------------------------------------------------------------------------------")
         print("---------------------------------------------------------------------------------------")
         for code, details in self.product.items():
