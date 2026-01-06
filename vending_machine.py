@@ -94,7 +94,7 @@ def main():
                 print("---------------------------------------------------------------------------------------")
                 vm.select_product(code)
                 vm.return_change()
-                print("and Thank you for using the not so small vending machine")
+                print("and Thank you for using the vending machine")
                 print("---------------------------------------------------------------------------------------")
             if action2 == "card":
                 card_pin = int(input("insert card pin: "))
@@ -105,7 +105,7 @@ def main():
                     print("---------------------------------------------------------------------------------------")
                     vm.select_product(code)
                     vm.return_change()
-                    print("and Thank you for using the not so small vending machine")
+                    print("and Thank you for using the vending machine")
                     print("---------------------------------------------------------------------------------------")
                 else:
                     print("Invalid card pin")
